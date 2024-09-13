@@ -44,4 +44,10 @@ To explore the analysis:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/student-performance
+2. Navigate to the project folder.
+3. Open the Jupyter Notebook (Student_Performance_Analysis.ipynb) to view the code, analysis, and visualizations.
+4. Run the notebook or scripts in your local Python environment.
+## Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements or additional analyses.
+
 
