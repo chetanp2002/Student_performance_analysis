@@ -1,5 +1,3 @@
-Here’s a README file for your Student Performance Analysis data analysis project:
-
 Student Performance Analysis
 This repository contains a data analysis project focused on evaluating student performance using various factors like demographic information, grades, and study habits. The goal of this project is to uncover trends and insights that can help improve student outcomes.
 
