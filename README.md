@@ -1,4 +1,4 @@
-Student Performance Analysis
+##Student Performance Analysis
 This repository contains a data analysis project focused on evaluating student performance using various factors like demographic information, grades, and study habits. The goal of this project is to uncover trends and insights that can help improve student outcomes.
 
 Table of Contents
