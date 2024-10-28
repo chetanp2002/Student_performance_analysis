@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on evaluating student p
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Introduction](#Demo)
+- [Introduction](#Result)
 - [Dataset](#dataset)
 - [Technologies](#technologies)
 - [Analysis](#analysis)
@@ -15,11 +15,13 @@ This repository contains a data analysis project focused on evaluating student p
 ## Introduction
 The **Student Performance Analysis** project explores the relationships between different factors and student performance. The analysis includes descriptive statistics, visualizations, and insights into how different factors such as gender, parental education level, and test preparation impact student success.
 
-![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo3.png)
-![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo3.png)
-![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo3.png)
-![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo3.png)
-![My Image](https://github.com/chetanp2002/Call-Center-Data-Analysis-/blob/main/Live%20demo/Demo3.png)
+
+## Result
+![My Image](https://github.com/chetanp2002/Student_performance_analysis/blob/main/images/Distribution%20of%20Ethnic%20Groups.png)
+![My Image](https://github.com/chetanp2002/Student_performance_analysis/blob/main/images/Gender%20Distribution.png)
+![My Image](https://github.com/chetanp2002/Student_performance_analysis/blob/main/images/Relationship%20between%20Parent's%20Education%20and%20Student's%20score.png)
+![My Image](https://github.com/chetanp2002/Student_performance_analysis/blob/main/images/Relationship%20between%20Parent's%20Marital%20status%20and%20Student's%20score.png)
+
 
 
 ## Dataset
